@@ -23,5 +23,8 @@
     <ClInclude Include="home.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\msys64\dev\sqlite-amalgamation-3470100\sqlite3.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
